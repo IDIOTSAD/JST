@@ -27,7 +27,7 @@ $ sudo ldconfig
 
 ### 설치법
 ```
-  $ git clone https://github.com/khk1262/JST.git
+  $ git clone https://github.com/IDIOTSAD/JST.git
 ```
 
 ### 실행 shell script
